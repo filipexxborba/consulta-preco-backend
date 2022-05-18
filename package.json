@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemailer": "^6.7.0",
+    "nodemon": "^2.0.14",
+    "oracledb": "^5.3.0"
+  },
+  "name": "backend---consulta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "title Backend - Consulta Preco e Estoque - Porta: 9999 && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
